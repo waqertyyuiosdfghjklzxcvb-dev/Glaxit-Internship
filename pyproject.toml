@@ -7,8 +7,14 @@ requires-python = ">=3.14"
 dependencies = [
     "beautifulsoup4>=4.14.3",
     "fastapi>=0.136.1",
+    "gower>=0.1.2",
+    "ipykernel>=7.2.0",
+    "jupyter-contrib-nbextensions>=0.7.0",
+    "kmedoids>=0.5.4",
+    "matplotlib>=3.10.9",
     "pandas>=3.0.3",
     "pymongo>=4.17.0",
     "requests>=2.34.2",
+    "scikit-learn>=1.8.0",
     "uvicorn>=0.47.0",
 ]
